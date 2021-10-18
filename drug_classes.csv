@@ -1,0 +1,523 @@
+variable_name,drug_name,drug_class,subclass
+Betamethasone inj 4 mg/ml,Betamethasone,#,
+Beco 5 Inj Lsg,Beco,#,
+Bilol 5 mg Tbl.,Bilol,#,
+CoAprovel,#VALUE!,#,
+Phenobarbital 200 mg/2ml,Phenobarbital,#,
+Salofalk Tbl 500 mg,Salofalk,#,
+Viagra Tbl. 50 mg,Viagra,#,
+VIII: Haemete HS,VIII:,#,
+Zentel Tbl 400 mg,Zentel,#,
+Trittico Tbl 100 mg,Trittico,#,
+Trittico Tbl 50 mg,Trittico,#,
+Valium Tbl. 5 mg,Valium,#,
+Surmontil Trpf 4%,Surmontil,#,
+Valium Tbl. 10 mg,Valium,#,
+Remeron subligual 15 mg,Mirtazapine,#,
+Akineton Inj Lsg 5 mg/ml,Biperiden,#,
+Diamox inj 500 mg/5ml,Acetazolamide,#,
+Stilnox Tbl 10mg,Stilnox,#,
+Seresta 15 mg,Seresta,#,
+Zoloft Tbl 50 mg,Zoloft,#,
+Xyzal Tbl. 5 mg,Xyzal,#,
+Diazepam tabl 5 mg,Diazepam,#,
+Citalopram Tbl 20mg,Citalopram,#,
+Creon Kps,Creon,#,
+Diamox Tbl 250 mg,Acetazolamide,#,
+Valium inj 5 mg/ml,Valium,#,
+Haemopressin TS Inj Lsg,Haemopressin,#,
+Saroten ret Kps 25 mg,Saroten,#,
+Creon forte Kps,Creon,#,
+Zyprexa Filmtbl. 5 mg,Zyprexa,#,
+Krenosin Inj Lsg,Adenosine,#,
+Revatio Filmtbl 20 mg,Revatio,#,
+Nozinan Tbl 25 mg,Levomepromazine,#,
+PK-Merz 500 ml,Amantadine sulphate,#,
+Nozinan Inj Lsg,Levomepromazine,#,
+Risperdal Tbl 1 mg,Risperdal,#,
+Seroquel Tbl 100 mg,Seroquel,#,
+II;VII;IX;X;C;S: Beriplex P/N 500 TS Inj Lsg,II;VII;IX;X;C;S:,#,
+Atropine Sulfat Sintetica inj 0.5 mg/ml,Atropine,#,
+Tavegyl Inj Lsg 2mg/2ml,Tavegyl,#,
+Seropram Tbl 20 mg,Seropram,#,
+Dequonal Gurgellösung,Dequonal,#,
+Distraneurin Mixt 500 mg/10 ml,Distraneurin,#,
+Paravertebralblock-Lösung,#VALUE!,#,
+Minirin inj,Minirin,#,
+Pavulon inj 2 mg/ml,Pavulon,Anaesthetic,
+Succinolin 100mg/ 2ml,Succinolin,Anaesthetic,
+Dormicum Tbl 7.5 mg,Dormicum,Anaesthetic,
+Dormicum Perfusor 5mg/ml,Dormicum,Anaesthetic,
+Ketalar Perfusor,Ketalar,Anaesthetic,
+Dormicum Bolus 1mg/ml,Dormicum,Anaesthetic,
+Ketalar 5mg/ml Perfusor Schmerzdienst,Ketalar,Anaesthetic,
+Pentothal inj 0.5g,Sodium thiopental,Anaesthetic,
+Dormicum 5mg/ml BOLUS,Dormicum,Anaesthetic,
+Norcuron inj 4mg/ml,Vecuronium bromide,Anaesthetic,
+Esmeron Inj Lsg 50 mg,Rocuronium,Anaesthetic,
+Ketalar Inj Lsg 500 mg/10 ml,Ketalar,Anaesthetic,
+Ultiva Inj Lsg,Remifentanil,Anaesthetic,
+Pentothal 1g Inf Lsg,Sodium thiopental,Anaesthetic,
+Tracrium Perfusor,Tracrium,Anaesthetic,
+Disoprivan 1%,Propofol,Anaesthetic,
+Tracrium inj 10 mg/ml,Tracrium,Anaesthetic,
+Dormicum inj 1 mg/ml,Dormicum,Anaesthetic,
+Disoprivan 2% BOLUS,Propofol,Anaesthetic,
+Dormicum Perfusor 5 mg/ml,Dormicum,Anaesthetic,
+Disoprivan 2%,Propofol,Anaesthetic,
+Sotalex Tabl 80 mg,Sotalex,Antiarrythmic,
+Digoxin Tabl 0.125 mg,Digoxin,Antiarrythmic,
+Digoxin Tabl 0.25 mg,Digoxin,Antiarrythmic,
+Esmolol Inj Lsg 100 mg /10 ml,Esmolol,Antiarrythmic,
+Digoxin inj 0.25 mg/ml,Digoxin,Antiarrythmic,
+Cordarone Tbl 200 mg,Amiodarone,Antiarrythmic,
+Cordarone Perfusor,Amiodarone,Antiarrythmic,
+Cordarone inj 50 mg/ml,Amiodarone,Antiarrythmic,
+Co-Amoxi Tbl 625 mg,Co-Amoxi,Antibiotic,
+Norfloxacin Filmtbl 400 mg,Norfloxacin,Antibiotic,
+Meropenem 1g,Meropenem,Antibiotic,
+Meropenem 500 mg,Meropenem,Antibiotic,
+Bactrim Amp 400/80 mg Inf Lsg,Bactrim,Antibiotic,
+Clindamycin Posphat 300,Clindamycin,Antibiotic,
+Metronidazole tabl 200 mg,Metronidazole,Antibiotic,
+Zinat Tabl 500 mg,Cefuroxime,Antibiotic,
+Rifampicin Filmtbl 600 mg,Rifampicin,Antibiotic,
+Bactrim Amp. 400/80 mg Inf Lsg,Bactrim,Antibiotic,
+Rifampicin Inf Lsg,Rifampicin,Antibiotic,
+Tavanic Tbl 500 mg,Levofloxacin,Antibiotic,
+Clindamycin Posphat 600,Clindamycin,Antibiotic,
+Rimactan Kps 600 mg,Rimactan,Antibiotic,
+Doxyclin Tbl 100 mg,Doxyclin,Antibiotic,
+Penicillin 50 000 U/ml,Penicillin,Antibiotic,
+Noroxin tabl 400 mg,Noroxin,Antibiotic,
+Co-Amoxi 2.2g Inf Lsg,Co-Amoxi,Antibiotic,
+Tavanic Inf Lsg 500 mg 100 ml,Levofloxacin,Antibiotic,
+Augmentin AD Tbl 1 g,Augmentin,Antibiotic,
+Rimactan Kps 300 mg,Rimactan,Antibiotic,
+Ciproxin Tbl 500 mg,Ciproxin,Antibiotic,
+Avalox Inf Lsg 400 mg,Avalox,Antibiotic,
+Ciproxin Infusion 400 mg,Ciproxin,Antibiotic,
+Rifater Drg 50 mg,Rifater,Antibiotic,
+Avalox Filmtbl 400 mg,Avalox,Antibiotic,
+Myambutol 400 mg/4ml,Ethambutol,Antibiotic,
+Co-Amoxi 1.2 g Inj Lsg,Co-Amoxi,Antibiotic,
+Fortam 2g Inj Lsg,Ceftazidime,Antibiotic,
+Obracin 80 mg,Obracin,Antibiotic,
+Ciproxin Tbl 250 mg,Ciproxin,Antibiotic,
+Dalacin C Kps 300 mg,Dalacin,Antibiotic,
+Xifaxan Tabl 550 mg,Rifaximin,Antibiotic,
+Augmentin Tabl 625 mg,Augmentin,Antibiotic,
+Vancocin oral Kps 250 mg,Vancomycin,Antibiotic,
+Meronem 500 mg,Meronem,Antibiotic,
+Fortam 1 g Inj Lsg,Ceftazidime,Antibiotic,
+SDD Gentamycin/Polymyxin Kps,Polymyxin,Antibiotic,
+Klacid Tbl 500 mg,clarithromycin,Antibiotic,
+Vibravenös Inj Lsg 100 mg 5 ml,Doxycyclin,Antibiotic,
+Ciproxin 200 mg/100ml,Ciproxin,Antibiotic,
+Colidimin Tbl 200 mg,Colidimin,Antibiotic,
+Rimactan inf 300 mg,Rimactan,Antibiotic,
+Dalacin C 600 Phosphat Amp.,Dalacin,Antibiotic,
+Tienam 500 mg,Imipenem,Antibiotic,
+Bactrim forte Lacktbl,Bactrim,Antibiotic,
+Flagyl Tbl 500 mg,Metronidazole,Antibiotic,
+Kefzol Inj Lsg,Cefazolin,Antibiotic,
+Garamycin,Garamycin,Antibiotic,
+Dalacin C Phosphat Inj Lsg 300 mg,Dalacin,Antibiotic,
+Bactrim Inf Lsg,Bactrim,Antibiotic,
+Erythrocin Inf Lsg,Erythrocin,Antibiotic,
+Piperacillin-Tazobactam 2.25 Inj Lsg,Piperacillin-Tazobactam,Antibiotic,
+Cefepime 2g Amp.,Cefepime,Antibiotic,
+Rocephin 2 g Inf Lsg,Ceftriaxone,Antibiotic,
+Klacid Amp 500 mg,clarithromycin,Antibiotic,
+Clamoxyl Inj Lsg,Clamoxyl,Antibiotic,
+Penicillin G 1 Mio,Penicillin,Antibiotic,
+Rocephin 1 g Inf Lsg,Ceftriaxone,Antibiotic,
+Floxapen Inj Lsg,Flucloxacillin,Antibiotic,
+Augmentin 2.2 Inf Lsg,Augmentin,Antibiotic,
+Meronem 1g,Meronem,Antibiotic,
+Vancocin  Amp 500 mg,Vancomycin,Antibiotic,
+Metronidazole inf 500 mg/100ml,Metronidazole,Antibiotic,
+Tazobac 2 g inf,Tazobactam,Antibiotic,
+Cepimex,Cefepime,Antibiotic,
+Augmentin 1.2 Inj Lsg,Amoxicillin,Antibiotic,
+Zinacef Amp 1.5 g,Cefuroxime,Antibiotic,
+Efexor Kps 75 mg,Venlafaxine,Antidepressant,
+Remeron Tbl 30 mg,Mirtazapine,Antidepressant,
+Haemocomplettan P 1g,Fibrinogen,Antifibrinolytic,
+Haemocomplettan P 2g,Fibrinogen,Antifibrinolytic,
+Haemocomplettan,Fibrinogen,Antifibrinolytic,
+Cyklokapron Infusion,Tranexamic acis,Antifibrinolytic,
+Cyklokapron inj 100 mg/ml,Cyklokapron,Antifibrinolytic,
+Voriconazol Inf Lsg 200 mg/ 20 ml,Voriconazol,Antifungal,
+Vfend Filmtbl 50 mg,Vfend,Antifungal,
+Ampho-Moronal Lutschtabletten,amphotericin b,Antifungal,
+Noxafil Tabl 100 mg,Posaconazole,Antifungal,
+Diflucan Susp Forte,Diflucan,Antifungal,
+Noxafil Susp,Posaconazole,Antifungal,
+Diflucan Kps 50 mg,Diflucan,Antifungal,
+Ecalta Amp 100 mg,Ecalta,Antifungal,
+Cancidas 70 mg,Caspofungin,Antifungal,
+Vfend Filmtbl 200 mg,Vfend,Antifungal,
+Diflucan Kps 200 mg,Diflucan,Antifungal,
+Vfend Amp,Vfend,Antifungal,
+Mycostatin Susp,Nystatin,Antifungal,
+AmBisome Inf Lsg,AmBisome,Antifungal,
+Cancidas 50 mg,Caspofungin,Antifungal,
+Diflucan Inf Lsg 200 mg,Fluconazole,Antifungal,
+Fungizone Amp,Amphotericin B,Antifungal,
+Ampho-Moronal Susp,amphotericin b,Antifungal,
+Thyrotardin 100 ug,Liothyronine,Antihypothyroid,
+Aldactone Filmtbl 50,Aldactone,Antimineralcorticoid,
+Soldactone Amp.,Potassium canrenoate,Antimineralcorticoid,
+Aldactone Filmtbl 100 mg,Aldactone,Antimineralcorticoid,
+Aldactone Filmtbl 25 mg,Aldactone,Antimineralcorticoid,
+Madopar Tbl 125 mg,Madopar,Antiparkinsonian,
+Madopar DR Tbl 200 mg,Madopar,Antiparkinsonian,
+Madopar LIQ Tbl 62.5,Madopar,Antiparkinsonian,
+Madopar LIQ 125 mg Tbl,Madopar,Antiparkinsonian,
+Quetiapin Tbl 100 mg,Quetiapin,Antipsychotic,
+Quetiapin Tbl 25 mg,Quetiapin,Antipsychotic,
+Haldol Trpf 2mg/ml,Haloperidol,Antipsychotic,
+Dipiperon Tbl 40 mg,Dipiperon,Antipsychotic,
+Seroquel Tbl 25mg,Quetiapine,Antipsychotic,
+Haldol Inj Lsg 5 mg/ml,Haloperidol,Antipsychotic,
+Levetiracetam Inf Lsg,Levetiracetam,Antiseizure,
+Tegretol CR Tbl 200 mg,Carbamazepine,Antiseizure,
+Trileptal Tbl 300 mg,Oxcarbazepine,Antiseizure,
+Tegretol CR Tbl 400 mg,Carbamazepine,Antiseizure,
+Lamotrigin Tbl 25 mg,Lamotrigin,Antiseizure,
+Lyrica Kps 25 mg,Lyrica,Antiseizure,
+Temesta Expidet 2.5 mg,Lorazepam,Antiseizure,
+Trileptal Tbl 600 mg,Oxcarbazepine,Antiseizure,
+Lamictal Tbl 25 mg,Lamictal,Antiseizure,
+Orfiril long Ret Kps 150 mg,Sodium valproate,Antiseizure,
+Vimpat Tbl. 50 mg,Lacosamide,Antiseizure,
+Lamotrigin Tbl 100 mg,Lamotrigin,Antiseizure,
+Lamictal Tbl 100 mg,Lamictal,Antiseizure,
+Torem Tbl 5 mg,Lorazepam,Antiseizure,
+Orfiril Sirup,Sodium valproate,Antiseizure,
+Lyrica Kps 75 mg,Lyrica,Antiseizure,
+Topamax Tbl 50 mg,Topiramate,Antiseizure,
+Phenhydan inj 50 mg/ml 5 ml,Phenhydan,Antiseizure,
+Keppra 500 mg Amp. i.v,Levetiracetam,Antiseizure,
+Torem Tbl 10 mg,Lorazepam,Antiseizure,
+Temesta inj Amp 4mg/ml,Lorazepam,Antiseizure,
+Temesta Expidet 1mg,Lorazepam,Antiseizure,
+Orfiril Inj Lösung,Sodium valproate,Antiseizure,
+Phenhydan tabl 100 mg,Phenhydan,Antiseizure,
+Keppra,Levetiracetam,Antiseizure,
+Phenhydan Inf Lsg 750 mg,Phenhydan,Antiseizure,
+Rivotril 0.5 mg/ml,Clonazepam,Antiseizure,
+Calciparine 12500 E/ 0.5ml,Heparin,Antithrombotic,Anticoagulant
+Clexane 1.0 ml s/c,Clexane,Antithrombotic,Anticoagulant
+Heparin Bichsel 500 E/ 5 ml,Heparin,Antithrombotic,Anticoagulant
+Urokinase 100000 U,Urokinase,Antithrombotic,Thrombolytics
+Efient Tbl 5 mg,Efient,Antithrombotic,Antiplatelet
+Urokinase 500000,Urokinase,Antithrombotic,Thrombolytics
+Clexane 0.8 ml s/c,Clexane,Antithrombotic,Anticoagulant
+Clexane 0.6 ml s/c,Clexane,Antithrombotic,Anticoagulant
+Fraxiparine 0.8 ml s/c,Nadroparin calcium,Antithrombotic,Anticoagulant
+Fraxiparine 0.6 ml s/c,Nadroparin calcium,Antithrombotic,Anticoagulant
+Aggrastat Inf Lsg,Tirofiban,Antithrombotic,Antiplatelet
+Marcoumar Tbl,Marcoumar,Antithrombotic,Anticoagulant
+Clexane 0.2 ml s/c,Clexane,Antithrombotic,Anticoagulant
+Calciparine,Heparin,Antithrombotic,Anticoagulant
+Actilyse Amp.50mg Lsg,Alteplase,Antithrombotic,Thrombolytics
+Fraxiparine 0.4 ml s/c,Nadroparin calcium,Antithrombotic,Anticoagulant
+Efient Tbl 10 mg,Efient,Antithrombotic,Antiplatelet
+Fraxiparine 0.3 ml s/c,Nadroparin calcium,Antithrombotic,Anticoagulant
+Actilyse Amp.20mg  Lsg.,Alteplase,Antithrombotic,Thrombolytics
+Clexane 0.4 ml s/c,Clexane,Antithrombotic,Anticoagulant
+Brilique Tbl 90 mg,Ticagrelor,Antithrombotic,Antiplatelet
+Fraxiparine,Nadroparin calcium,Antithrombotic,Anticoagulant
+ReoPro,Abciximab,Antithrombotic,Antiplatelet
+Actilyse,Alteplase,Antithrombotic,Thrombolytics
+Plavix Tbl 75 mg,Clopidogrel,Antithrombotic,Antiplatelet
+Argatra Inf Lsg,Argotroban,Antithrombotic,Anticoagulant
+Refludan Trockensubst 50 mg,Lepirudin,Antithrombotic,Anticoagulant
+Liquemin 5000 U/ml,Heparin,Antithrombotic,Anticoagulant
+Tamiflu Suspension,Tamiflu,Antiviral,
+Tamiflu Kps 30 mg,Tamiflu,Antiviral,
+Valcyte Filmtabl. 450mg,Valganciclovir,Antiviral,
+Cymevene 500 mg,Ganciclovir,Antiviral,
+Valtrex Tbl 500 mg,Valaciclovir,Antiviral,
+Zovirax inf 250 mg,Zovirax,Antiviral,
+Aminophyllin BOLUS,Aminophyllin,Bronchodilator,
+Symbicort 100/60,Symbicort,Bronchodilator,
+Seretide 250 Disk,Fluticasone propionate / Salmeterol,Bronchodilator,
+Symbicort 200/60,Symbicort,Bronchodilator,
+Euphyllin N Bolus,Aminophylline,Bronchodilator,
+Ventolin Inhal Lsg 0.05%,Ventolin,Bronchodilator,
+Ventolin inhal 0.5% 5 mg/ml,Ventolin,Bronchodilator,
+Ventolin Dosieraerosol 0.1 mg,Ventolin,Bronchodilator,
+Atrovent N Dosieraerosol,Atrovent,Bronchodilator,
+Atrovent Inhal Lsg 0.25 mg/2ml,Atrovent,Bronchodilator,
+Euphyllin N Perfusor,Aminophylline,Bronchodilator,
+Calcium Sandoz FF Brausetabl 1000 mg,Calcium,Calcium,
+Calcium Sandoz Lsg 10% 10 ml,Calcium,Calcium,
+Calciumchlorid 5%,Calcium Chloride,Calcium,
+Neupogen 48 Mio U,Filgrastim,Chemotherapy,
+Neupogen 30 Mio U,Filgrastim,Chemotherapy,
+Chemotherapie,Chemotherapy,Chemotherapy,
+Solu Medrol Stechampullen 2g,Solu Medrol,Corticosteroid,
+Pulmicort Dosieraerosol 0.2mg,Pulmicort,Corticosteroid,
+Prednisolone tabl 20 mg,Prednisolone,Corticosteroid,
+Hydrocortone Tbl 10 mg,Hydrocortone,Corticosteroid,
+Mephameson Inj Lsg 8mg/ml,Mephameson,Corticosteroid,
+Solumedrol 500 mg,Solu Medrol,Corticosteroid,
+Solu Medrol Stechamp 1g,Solu Medrol,Corticosteroid,
+Prednison Tbl 50 mg,Prednison,Corticosteroid,
+Florinef Tbl 0.1mg,Fludrocortisone,Corticosteroid,
+Prednison Tbl 5 mg,Prednison,Corticosteroid,
+Prednison Tbl 20 mg,Prednison,Corticosteroid,
+Solu Medrol 125 mg,Solu Medrol,Corticosteroid,
+Pulmicort Inhal Lsg 0.25 mg/ml,Pulmicort,Corticosteroid,
+Fortecortin Tbl 4 mg,Dexamethasone,Corticosteroid,
+Mephameson 4mg/ml,Mephameson,Corticosteroid,
+Solumedrol 40 mg,Solu Medrol,Corticosteroid,
+Solu Cortef Inj Lsg 100 mg/ 2 ml,Solu Cortef,Corticosteroid,
+Glucose 20%/100ml Pflege,Glucose,Glucose,
+Glucose 30%,Glucose,Glucose,
+Glucose 20%,Glucose,Glucose,
+Glucose 50%,Glucose,Glucose,
+Glucose 20% /500ml,Glucose,Glucose,
+Glucose 20% /100ml,Glucose,Glucose,
+Glucose 10%,Glucose,Glucose,
+Neo-Mercazole Tabl 5 mg,Carbimazole,Hyperthyroid,
+Privigen 5g Inf Lsg,Privigen,Immunoglobulin,
+Intratect10% Inf Lsg  5 g/50 ml,Intratect10%,Immunoglobulin,
+Privigen 10g Inf Lsg,Privigen,Immunoglobulin,
+Intratect 10g Inf Lsg,Intratect,Immunoglobulin,
+Intratect10% Inf Lsg 20 g/200ml,Intratect10%,Immunoglobulin,
+Privigen 20g Inf Lsg,Privigen,Immunoglobulin,
+Intratect10% Inf Lsg 10 g/100ml,Intratect10%,Immunoglobulin,
+Octagam Inf Lsg,Immune Globulin Intravenous,Immunoglobulin,
+Certican Tbl.à 0.25 mg,Certican,Immunosuppressant,
+CellCept Amp 500 mg,CellCept,Immunosuppressant,
+Sandimmun Neoral Kps 10 mg,Sandimmun,Immunosuppressant,
+Simulect Inj Lsg,Simulect,Immunosuppressant,
+Rapamune Tbl 1mg,Sirolimus,Immunosuppressant,
+Imurek Stechamp. 50 mg,Azathioprine,Immunosuppressant,
+Grafalon Inf Lsg,Grafalon,Immunosuppressant,
+Prograf Kps 0.5mg,Prograf,Immunosuppressant,
+Sandimmun Neoral Kps 25 mg,Sandimmun,Immunosuppressant,
+Prograf Kps 5 mg,Prograf,Immunosuppressant,
+Imurek Tabl 50 mg,Azathioprine,Immunosuppressant,
+Sandimmun Neoral Kps 50 mg,Sandimmun,Immunosuppressant,
+Sandimmun 50 mg/ml,Sandimmun,Immunosuppressant,
+Sandimmun Neoral Kps 100 mg,Sandimmun,Immunosuppressant,
+CellCept Tbl 500 mg,CellCept,Immunosuppressant,
+Sandimmun Neoral Trinklsg 100 mg,Sandimmun,Immunosuppressant,
+CellCept Kps 250 mg,CellCept,Immunosuppressant,
+CellCept Susp,CellCept,Immunosuppressant,
+Prograf Kps 1mg,Prograf,Immunosuppressant,
+Insulin Mixtard 30 HM,Insulin,Insulin,
+Insulin Insulatard HM,Insulin,Insulin,
+Insulin Lantus,Insulin,Insulin,
+Insulin NovoRapid,Insulin,Insulin,
+Insulin Actrapid inj 100 U/ml,Insulin,Insulin,
+Intravenous blood transfusion of packed cells,Intravenous blood transfusion of packed cells,Intravenous blood transfusion of packed cells,
+Magnesiocard 5 mmol sachet,Magnesiocard,Magnesium,
+Mg-Sulfat conc,Magnesium Sulphate,Magnesium,
+Magnesium Sulfat 50% 10 ml,Magnesium Sulphate,Magnesium,
+Nepro,Nepro,Nepro,
+Brufen Filmtbl. 200 mg,Ibuprofen,Non-opioid painkiller,
+Dafalgan ODIS Schmelz Tabl 500 mg,Paracetamol,Non-opioid painkiller,
+Aspirin Tbl 500 mg,Aspirin,Non-opioid painkiller,
+Voltaren Tbl. à 75mg,Voltaren,Non-opioid painkiller,
+Dafalgan Supp 600 mg,Paracetamol,Non-opioid painkiller,
+Brufen Filmtbl. 600 mg,Ibuprofen,Non-opioid painkiller,
+Brufen Filmtbl. 400 mg,Ibuprofen,Non-opioid painkiller,
+Voltaren Inf Lsg,Voltaren,Non-opioid painkiller,
+Tora-dol Inj Lsg 30 mg,Ketorolac,Non-opioid painkiller,
+Novalgin Tbl. à 500mg,Metamizole,Non-opioid painkiller,
+Aspirin cardio Tbl 300 mg,Aspirin,Non-opioid painkiller,
+Dafalgan tabl 500 mg,Paracetamol,Non-opioid painkiller,
+Aspégic Inj Lsg 500 mg/5ml,Aspirin,Non-opioid painkiller,
+Dafalgan Brausetbl 500 mg,Paracetamol,Non-opioid painkiller,
+Perfalgan 500 mg,Paracetamol,Non-opioid painkiller,
+Novalgin Trpf,Metamizole,Non-opioid painkiller,
+Benuron supp 1000 mg,Paracetamol,Non-opioid painkiller,
+Aspirin Tbl 100 mg,Aspirin,Non-opioid painkiller,
+Dafalgan Tabl 1g,Paracetamol,Non-opioid painkiller,
+Novalgin inj lös 50% 2 ml,Metamizole,Non-opioid painkiller,
+Dafalgan Brausetbl 1g,Paracetamol,Non-opioid painkiller,
+Perfalgan 1g,Paracetamol,Non-opioid painkiller,
+Dexdor Inf. Lsg,Dexmedetomidine,Non-opioid painkiller,
+Nutriflex spez 1000ml -F; - E,Nutriflex,Nutrients,
+Promote Fibres Plus,Promote,Nutrients,
+Survimed OPD HN,Survimed,Nutrients,
+Freka MIx 2000 ml,Freka,Nutrients,
+Becotal Inj Lsg,Becotal,Nutrients,
+Novasource,Novasource,Nutrients,
+Becozym forte Drag,Becozym,Nutrients,
+Nutriflex spez 1000 ml; ohne Fett,Nutriflex,Nutrients,
+StructoKabiven NL 1500 ml +F; - E,Kabiven,Nutrients,
+SmofKabiven NL1970 ml +F;-E,Kabiven,Nutrients,
+Nutriflex lipid spezial oE,Nutriflex,Nutrients,
+SmofKabiven NL 2000 ml +F;+E,Kabiven,Nutrients,
+Novasource GI Forte + Fasern,Novasource,Nutrients,
+Nutriflex lipid spez 1875ml,Nutriflex,Nutrients,
+Isosource Protein,Isosource,Nutrients,
+Nutriflex lipid spez 1250ml,Nutriflex,Nutrients,
+Isosource Standard,Isosource,Nutrients,
+SmofKabiven NL 1500 ml +F;+E,Kabiven,Nutrients,
+Tramal Kps 50 mg,Tramadol,Opioid painkiller,
+Sufentanyl Perfusor,Sufentanyl,Opioid painkiller,
+Tramal Retard  Tbl. 100 mg,Tramadol,Opioid painkiller,
+Oxycontin Ret Tbl à 10mg,Oxycodone,Opioid painkiller,
+Tramal Trpf 100 mg/ml,Tramadol,Opioid painkiller,
+MST Continus ret Tbl 10 mg,Morphine,Opioid painkiller,
+Morphin HCl Lsg à 20mg/ml,Morphine,Opioid painkiller,
+MST Continus ret. Tbl 60,Morphine,Opioid painkiller,
+Oxycontin Ret Tbl à 20mg,Oxycodone,Opioid painkiller,
+Targin Retard Tbl 20/10mg,Oxycodone,Opioid painkiller,
+Morphine Inj à 10mg,Morphine,Opioid painkiller,
+MST Continus ret Tbl 30,Morphine,Opioid painkiller,
+Oxynorm Trpf 10mg/ml,Oxycodone,Opioid painkiller,
+Pethidine inj 50 mg/ml,Pethidine,Opioid painkiller,
+Durogesic TTS Matrix 100 ug,Durogesic,Opioid painkiller,
+Durogesic Matrix 12 ug/h,Durogesic,Opioid painkiller,
+Hydrocodon Inj Lsg,Hydrocodon,Opioid painkiller,
+Targin Retard Tbl 10/5mg,Oxycodone,Opioid painkiller,
+Rapifen inj 0.5 mg/ml,Alfentanil,Opioid painkiller,
+Durogesic TTS 50 ug,Durogesic,Opioid painkiller,
+Durogesic TTS 25 ug,Durogesic,Opioid painkiller,
+Methadon inj 10 mg/ml,Methadon,Opioid painkiller,
+Methadon oral 0.5% 5mg/ml,Methadon,Opioid painkiller,
+PCA-Morphin,Morphine,Opioid painkiller,
+Fentanyl-PCA-Lösung,Fentanyl,Opioid painkiller,
+Morphin HCL Perfusor,Morphine,Opioid painkiller,
+Fentanyl Perf,Fentanyl,Opioid painkiller,
+Fentanyl inj 50 µg/ml,Fentanyl,Opioid painkiller,
+PDA-Bupivacain 0.125% ohne Fentanyl,PDA-Bupivacain,PDA,
+PDA-Forte Bolus,PDA-Forte,PDA,
+PDA-Standard Bolus,PDA-Standard,PDA,
+PDA-Forte,PDA-Forte,PDA,
+Phoscap Phosphat-Kps,Phosphorus,Phosphorus,
+Kalium Phosphat für Perfusor,Potassium Phosphate,Phosphorus,
+Platelet transfusion,Platelet transfusion,Platelet transfusion,
+Kalium Effervetten,Potassium,Potassium,
+KCL ret. Hausmann Drg 10mmol (745mg),Potassium Chloride,Potassium,
+KCL Retard Zyma Drag,Potassium Chloride,Potassium,
+Kalium-Chlorid Sirup,Potassium Chloride,Potassium,
+K-Cl conc,Potassium Chloride,Potassium,
+Kalium Chlorid 15% 10 ml,Potassium Chloride,Potassium,
+K-Pi conc,Potassium inorganic phosphorus,Phosphorus,
+Kalium Phosphat,Potassium Phosphate,Phosphorus,
+Ca-Acetat-Phopshatbinder 400 mg,Calcium Acetate Phosphate Binder,Reduce Phosphorous,
+Protamin 1000 Inj Lsg,Protamine sulfate,Reverse Anticoagulant,
+Narcan Inj Lsg,Naloxone,Reverse benzodiazepine,
+Anexate 0.5mg/ 5 ml,Flumazenil,Reverse benzodiazepine,
+Na- Bicarbonat 8.4%,Sodium Bicarbonate,Sodium Bicarbonate,
+Na-Bicarbonat 1.4%,Sodium Bicarbonate,Sodium Bicarbonate,
+Na-Bicarbonat Inf Lsg 8.4%,Sodium Bicarbonate,Sodium Bicarbonate,
+Kochsalz Tbl 1g,Sodium Chloride,Sodium,
+NaCl conc Amp 14.5%,Sodium Chloride,Sodium,
+NaCl 2.5%,Sodium Chloride,Sodium,
+Na-Posph conc,Sodium Phosphate,Phosphorus,
+Survimed OPD,Survimed,Survimed,
+Tamiflu Kps 75 mg,Tamiflu,T#,
+Eltroxin Tbl 0.05mg,Levothyroxine,Thyroidal,
+Eltroxin Tbl 0.10mg,Levothyroxine,Thyroidal,
+Euthyrox Tabl 50 µg,Euthyrox,Thyroidal,
+Thyroxin TS Amp 500 ug/5ml,Thyroxin,Thyroidal,
+Euthyrox tabl 0.1 mg,Euthyrox,Thyroidal,
+Trace elements,Trace elements,Trace elements,
+Transfusion of plasma (FFP),Transfusion of Plasma,Transfusion of Plasma,
+ATG Fresenius 100mg/5 ml,ATG,Transplant,
+Moduretic mite Tabl 2.5 mg/25 mg,Moduretic,Vasodilator,Potassium Sparing diuretic
+Sorbidilat Kps 40mg,Sorbidilat,Vasodilator,Nitrate
+Isoket Dosieraerosol,Isoket,Vasodilator,Nitrate
+Nitroglycerin Kps 0.8mg,Nitroglycerin,Vasodilator,Nitrate
+Tracleer Tabl 62.5 mg,Bosentan,Vasodilator,Endothelin receptor antagoinist
+Diltiazem Tbl 60 mg,Diltiazem,Vasodilator,Calcium channel blocker
+Isoptin inj 2.5 mg/ml,Verapamil,Vasodilator,Calcium channel blocker
+Tenormin  Tabl 100mg,Atenolol,Vasodilator,Beta blocker
+Amlodipin Tbl 5mg,Amlodipin,Vasodilator,Calcium channel blocker
+Torem Tbl 200 mg,Torasemide,Vasodilator,Loop diuretic
+Adalat retard CR Tbl 30 mg,Nifedipine,Vasodilator,Calcium channel blocker
+Tenormin submite tabl 25 mg,Atenolol,Vasodilator,Beta blocker
+Adalat retard Tbl 20 mg,Nifedipine,Vasodilator,Calcium channel blocker
+Nebivolol Tabl 5 mg,Nebivolol,Vasodilator,Beta blocker
+Losartan Tabl 50 mg,Losartan,Vasodilator,Thiazides 
+Metoprolol Tartrat Tbl 10 mg,Metoprolol,Vasodilator,Beta blocker
+Enatec Tbl 20 mg,Enalapril Maleate,Vasodilator,ACE inhibitor
+Tenormin mite Tabl 50 mg,Atenolol,Vasodilator,Beta blocker
+Dilzem retard Filmtbl 120 mg,Dilzem,Vasodilator,Calcium channel blocker
+Enatec Tbl 5 mg,Enalapril Maleate,Vasodilator,ACE inhibitor
+Carvedilol Tabl 12.5 mg,Carvedilol,Vasodilator,Beta blocker
+Torem Inj Lsg 10 mg/2 ml,Torasemide,Vasodilator,Loop diuretic
+Perlinganit Perfusor,Nitroglycerine,Vasodilator,Nitrate
+Concor Tbl 5 mg,Concor,Vasodilator,Beta blocker
+Enatec Tbl 10 mg,Enalapril Maleate,Vasodilator,ACE inhibitor
+Isoptin Tbl 80 mg,Verapamil,Vasodilator,Calcium channel blocker
+Dilatrend Tabl 6.25 mg,Carvedilol,Vasodilator,Beta blocker
+Ilomedin 20 ug/ml Inf Lsg,Iloprost,Vasodilator,Pulmonary
+Nitroprusside DBL 1mg/ml,Nitroprusside,Vasodilator,Nitrate
+Inderal Tbl 10 mg,Propranolol,Vasodilator,Beta blocker
+Nebilet Tbl à 5 mg,Nebilet,Vasodilator,Beta blocker
+Inderal Tbl 40 mg,Propranolol,Vasodilator,Beta blocker
+Lasix 40 mg tabl,Furosemide,Vasodilator,Loop diuretic
+Cosaar Tbl 50 mg,Losartan,Vasodilator,Angiotensin II receptor antagonists
+Furosemide 10 mg/ml inj,Furosemide,Vasodilator,Loop diuretic
+Moduretic mite Tabl 50/2.5,Moduretic,Vasodilator,Potassium Sparing diuretic
+Dilatrend Tabl 12.5 mg,Carvedilol,Vasodilator,Beta blocker
+Regitin Inj Lsg 10 mg/ml,Phentolamine,Vasodilator,Alpha blocker
+Nitroderm TTS 5,Nitroderm,Vasodilator,Nitrate
+Captopril Tabl 25 mg,Captopril,Vasodilator,ACE inhibitor
+Amlodipin Tbl 5 mg,Amlodipin,Vasodilator,Calcium channel blocker
+Dyrenium comp. Kps,Dyrenium,Vasodilator,Potassium Sparing diuretic
+Nitroprusside DBL 0.5 mg/ml,Nitroprusside,Vasodilator,Nitrate
+Beloc zok ret. Tbl 100 mg,Metoprolol,Vasodilator,Beta blocker
+Cardura CR Tbl 4 mg,Doxazosin,Vasodilator,Alpha blocker
+Nitroderm TTS 10,Nitroglycerine,Vasodilator,Nitrate
+Ventavis Inhal Lsg,Iloprost,Vasodilator,Pulmonary
+Metolazon Tbl 5 mg,Metolazon,Vasodilator,Thiazides 
+Amlodipin Tbl 10 mg,Amlodipin,Vasodilator,Calcium channel blocker
+Norvasc Tabl 5 mg,Amlodipine,Vasodilator,Calcium channel blocker
+Zestril Tbl 5 mg,Zestril,Vasodilator,ACE inhibitor
+Norvasc Tabl 10 mg,Amlodipine,Vasodilator,Calcium channel blocker
+Loniten Tbl 2.5 mg,Loniten,Vasodilator,Hair
+Beloc Perfusor,Metoprolol,Vasodilator,Beta blocker
+Beloc ZOK ret Tbl 50 mg,Metoprolol,Vasodilator,Beta blocker
+Trandate Perfusor,Labetalol,Vasodilator,Beta blocker
+Beloc Inj Lsg,Metoprolol,Vasodilator,Beta blocker
+Lisinopril Tbl 20mg,Lisinopril,Vasodilator,ACE inhibitor
+Nepresol inj 12.5 mg/ml,Nepresol,Vasodilator,Hydrazinophthalazine
+Ilomedin Inj Lsg 50ug/2.5 ml,Iloprost,Vasodilator,Pulmonary
+Nitroprussiat Fides 1mg/ml,Nitroprusside,Vasodilator,Nitrate
+Beloc ZOK ret Tbl 25 mg,Metoprolol,Vasodilator,Beta blocker
+Nimotop Tabl 30 mg,Nimodipine,Vasodilator,Calcium channel blocker
+Simdax inf,Levosimendan,Vasodilator,Inodilator
+Trandate inj,Labetalol,Vasodilator,Beta blocker
+Lopirin Tabl 12.5 mg,Loprin,Vasodilator,Angiotensin II receptor antagonists
+Nitriate 1mg/ml,Nitriate,Vasodilator,Nitrate
+Nimotop inf 0.2 mg/ml,Nimodipine,Vasodilator,Calcium channel blocker
+Lasix Bolus 20mg  Amp.,Furosemide,Vasodilator,Loop diuretic
+Perlinganit mg/ml inf,Nitroglycerine,Vasodilator,Nitrate
+Corotrop Inj Lsg 1mg/ml 10 ml,milrinone,Vasodilator,Inodilator
+EbrAntil Inj Lsg,Urapidil,Vasodilator,Alpha blocker
+Nitroprussiat Fides 0.5mg/ml,Nitroprusside,Vasodilator,Nitrate
+Lasix Perfusor 250 mg Amp.,Furosemide,Vasodilator,Loop diuretic
+Nitriate 0.5mg/ml,Nitriate,Vasodilator,Nitrate
+Nipruss 1mg/ml,Nitroprusside,Vasodilator,Nitrate
+Sodium nitro,Nitroprusside,Vasodilator,Nitrate
+Noradrenalin 1mg/ml,Noradrenalin,Vasopressor,Noradrenalin
+Adrenalin 100 µg/ml Bolus,Adrenalin,Vasopressor,Adrenalin
+Vasopressin inj 20 U/ml,Vasopressin,Vasopressor,Vasopressin
+Vasopressin inf 0.4 U/ml,Vasopressin,Vasopressor,Vasopressin
+Adrenalin  1mg/ml,Adrenalin,Vasopressor,Adrenalin
+Catapresan Tabl 150 mikrogr,Clonidine,Vasopressor,Clonidine
+Glypressin Inj Lsg,Terlipressin,Vasopressor,
+Adrenalin 10 µg/ml Bolus,Adrenalin,Vasopressor,Adrenalin
+Noradrenalin 10 µg/ml Bolus,Noradrenalin,Vasopressor,Noradrenalin
+Adrenalin 100 µg/ml Perfusor,Adrenalin,Vasopressor,Adrenalin
+Adrenalin 20 µg/ml Perfusor,Adrenalin,Vasopressor,Adrenalin
+Catapresan 25µg /ml Perfusor,Clonidine,Vasopressor,Clonidine
+Noradrenalin 100 µg/ml Perfusor,Noradrenalin,Vasopressor,Noradrenalin
+Dobutrex 250 mg/20ml,Dobutamine,Vasopressor,Dobutamine
+Noradrenalin 20 µg/ml Perfusor,Noradrenalin,Vasopressor,Noradrenalin
+Benerva Tbl 100 mg,Vitamin B1,Vitamin B1,
+Benerva Tbl 300 mg,Vitamin B1,Vitamin B1,
+Benerva Inj Lsg 100mg/1 ml,Vitamin B1,Vitamin B1,
