@@ -43,12 +43,11 @@ Download the *raw\_stage* data from HiRID after getting permission and place it 
 ## Preprocess
 ```python
 preprocess_params = {
-    'rename_dict' : {'temp':'Temperature','mean.arterial.pressure':'MAP','systolic.arterial.pressure':'Systolic BP',
-               'diastolic.arterial.pressure':'Diastolic BP'},
-    'parameter_dict' : {'Circadian_rhythm': [4, 10]},
-     
-    'filter_range': [0.01, 0.99]
-}
+		      'rename_dict' : {'temp':'Temperature','mean.arterial.pressure':'MAP','systolic.arterial.pressure':'Systolic BP',
+			               'diastolic.arterial.pressure':'Diastolic BP'},
+		      'parameter_dict' : {'Circadian_rhythm': [4, 10]},
+		      'filter_range': [0.01, 0.99]
+		    }
 affirm.fit_preprocess(**preprocess_params)
 affirm.preprocess()
 ```
