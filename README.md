@@ -74,22 +74,9 @@ affirm.fit_prepare(**prepare_params)
 
 ## Predict
 ```python
-def create_keras():  
-    model = Sequential()
-    model.add(Dense(8, activation='relu'))
-    model.add(Dense(8, activation='relu'))
-    model.add(Dense(8, activation='relu'))
-    model.add(Dense(1, activation='sigmoid'))
-    model.compile(loss='binary_crossentropy', optimizer='adam', metrics=[AUC(curve="PR", name='auprc')])        
-    return model
-
-keras_model = create_keras()
-keras_model = KerasClassifier(build_fn= create_keras, verbose=0)
-keras_model._estimator_type = "classifier"
 predict_params = {
     'models': {
     		'Logistic Regression': LogisticRegression(random_state=0),
-		'Keras':keras_model,
 		'Random Forest':RandomForestClassifier(max_depth=4, random_state=0),
 		'LightGBM':lgb.LGBMClassifier(boosting_type='gbdt', objective='binary'),        
 		'XGBoost': xgb.XGBClassifier(objective = "binary:logistic", eval_metric = "aucpr",use_label_encoder=False)
