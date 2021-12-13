@@ -1,0 +1,36 @@
+,feature_importance
+age,1.7019484
+bmi,1.4611257
+Heart_rate_max,0.5642743
+Heart_rate_min,0.43078497
+Respiratory_rate_min,0.2781127
+Systolic BP_max,0.23692296
+ST_elevation_min,0.22293787
+Systolic BP_min,0.216916
+Respiratory_rate_max,0.1874108
+Peripheral_oxygen_saturation_min,0.16642258
+sex,0.15909728
+MAP_max,0.11588003
+Peripheral_oxygen_saturation_max,0.11342282
+Diastolic BP_min,0.09825284
+Diastolic BP_max,0.08267655
+MAP_min,0.07310875
+ST_elevation_max,0.04237344
+Fluid_balance_max,0.027754268
+Fluid_balance_min,0.02064139
+Infusion_of_saline_solution_max,0.018672774
+Infusion_of_saline_solution_min,0.010778067
+Anaesthetic,0.0043079997
+Vasodilator,0.002995279
+Antithrombotic,0.0029467111
+Opioid painkiller,0.0006775898
+Vasopressor,0.0002630844
+Anticonvulsant,0.0
+Potassium,0.0
+Base_excess_in_Arterial_blood_by_calculation_max,0.0
+Nutrients,0.0
+Non-opioid painkiller,0.0
+Insulin,0.0
+Antibiotic,0.0
+Antiarrythmic,0.0
+Phosphorus,0.0
